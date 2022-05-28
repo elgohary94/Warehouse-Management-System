@@ -1,0 +1,89 @@
+C:\Users\Goharista\Desktop\CommerceSystem-main\CommerceSystem\Warehouse Manaement System\bin\Debug\CommerceSystem.exe.config
+C:\Users\Goharista\Desktop\CommerceSystem-main\CommerceSystem\Warehouse Manaement System\bin\Debug\CommerceSystem.exe
+C:\Users\Goharista\Desktop\CommerceSystem-main\CommerceSystem\Warehouse Manaement System\bin\Debug\CommerceSystem.pdb
+C:\Users\Goharista\Desktop\CommerceSystem-main\CommerceSystem\Warehouse Manaement System\bin\Debug\EntityFramework.dll
+C:\Users\Goharista\Desktop\CommerceSystem-main\CommerceSystem\Warehouse Manaement System\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Goharista\Desktop\CommerceSystem-main\CommerceSystem\Warehouse Manaement System\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\Goharista\Desktop\CommerceSystem-main\CommerceSystem\Warehouse Manaement System\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\Goharista\Desktop\CommerceSystem-main\CommerceSystem\Warehouse Manaement System\bin\Debug\Syncfusion.Pdf.Base.dll
+C:\Users\Goharista\Desktop\CommerceSystem-main\CommerceSystem\Warehouse Manaement System\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Goharista\Desktop\CommerceSystem-main\CommerceSystem\Warehouse Manaement System\bin\Debug\EntityFramework.xml
+C:\Users\Goharista\Desktop\CommerceSystem-main\CommerceSystem\Warehouse Manaement System\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Goharista\Desktop\CommerceSystem-main\CommerceSystem\Warehouse Manaement System\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\Goharista\Desktop\CommerceSystem-main\CommerceSystem\Warehouse Manaement System\bin\Debug\Syncfusion.Pdf.Base.xml
+C:\Users\Goharista\Desktop\CommerceSystem-main\CommerceSystem\Warehouse Manaement System\obj\Debug\WarehouseManagementSystem.csprojAssemblyReference.cache
+C:\Users\Goharista\Desktop\CommerceSystem-main\CommerceSystem\Warehouse Manaement System\obj\Debug\WareHouse.Forms.AddDism.resources
+C:\Users\Goharista\Desktop\CommerceSystem-main\CommerceSystem\Warehouse Manaement System\obj\Debug\WareHouse.Forms.AddSupPermDialog.resources
+C:\Users\Goharista\Desktop\CommerceSystem-main\CommerceSystem\Warehouse Manaement System\obj\Debug\WareHouse.Forms.SelectProductInPeriod.resources
+C:\Users\Goharista\Desktop\CommerceSystem-main\CommerceSystem\Warehouse Manaement System\obj\Debug\WareHouse.Forms.SelectStores.resources
+C:\Users\Goharista\Desktop\CommerceSystem-main\CommerceSystem\Warehouse Manaement System\obj\Debug\WareHouse.Forms.SelectTimePeriod.resources
+C:\Users\Goharista\Desktop\CommerceSystem-main\CommerceSystem\Warehouse Manaement System\obj\Debug\WareHouse.Forms.UpdateDismPerm.resources
+C:\Users\Goharista\Desktop\CommerceSystem-main\CommerceSystem\Warehouse Manaement System\obj\Debug\WareHouse.Forms.UpdateOrDeleteDialog.resources
+C:\Users\Goharista\Desktop\CommerceSystem-main\CommerceSystem\Warehouse Manaement System\obj\Debug\WareHouse.Forms.UpdateSupPermInfo.resources
+C:\Users\Goharista\Desktop\CommerceSystem-main\CommerceSystem\Warehouse Manaement System\obj\Debug\WareHouse.Home.resources
+C:\Users\Goharista\Desktop\CommerceSystem-main\CommerceSystem\Warehouse Manaement System\obj\Debug\CommerceSystem.Properties.Resources.resources
+C:\Users\Goharista\Desktop\CommerceSystem-main\CommerceSystem\Warehouse Manaement System\obj\Debug\WarehouseManagementSystem.csproj.GenerateResource.cache
+C:\Users\Goharista\Desktop\CommerceSystem-main\CommerceSystem\Warehouse Manaement System\obj\Debug\WarehouseManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Goharista\Desktop\CommerceSystem-main\CommerceSystem\Warehouse Manaement System\obj\Debug\WarehouseManagementSystem.csproj.CopyComplete
+C:\Users\Goharista\Desktop\CommerceSystem-main\CommerceSystem\Warehouse Manaement System\obj\Debug\CommerceSystem.exe
+C:\Users\Goharista\Desktop\CommerceSystem-main\CommerceSystem\Warehouse Manaement System\obj\Debug\CommerceSystem.pdb
+C:\Users\Goharista\Desktop\New folder (3)\CommerceSystem\Warehouse Manaement System\bin\Debug\CommerceSystem.exe.config
+C:\Users\Goharista\Desktop\New folder (3)\CommerceSystem\Warehouse Manaement System\bin\Debug\CommerceSystem.exe
+C:\Users\Goharista\Desktop\New folder (3)\CommerceSystem\Warehouse Manaement System\bin\Debug\CommerceSystem.pdb
+C:\Users\Goharista\Desktop\New folder (3)\CommerceSystem\Warehouse Manaement System\bin\Debug\EntityFramework.dll
+C:\Users\Goharista\Desktop\New folder (3)\CommerceSystem\Warehouse Manaement System\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Goharista\Desktop\New folder (3)\CommerceSystem\Warehouse Manaement System\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\Goharista\Desktop\New folder (3)\CommerceSystem\Warehouse Manaement System\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\Goharista\Desktop\New folder (3)\CommerceSystem\Warehouse Manaement System\bin\Debug\Syncfusion.Pdf.Base.dll
+C:\Users\Goharista\Desktop\New folder (3)\CommerceSystem\Warehouse Manaement System\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Goharista\Desktop\New folder (3)\CommerceSystem\Warehouse Manaement System\bin\Debug\EntityFramework.xml
+C:\Users\Goharista\Desktop\New folder (3)\CommerceSystem\Warehouse Manaement System\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Goharista\Desktop\New folder (3)\CommerceSystem\Warehouse Manaement System\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\Goharista\Desktop\New folder (3)\CommerceSystem\Warehouse Manaement System\bin\Debug\Syncfusion.Pdf.Base.xml
+C:\Users\Goharista\Desktop\New folder (3)\CommerceSystem\Warehouse Manaement System\obj\Debug\WarehouseManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Goharista\Desktop\New folder (3)\CommerceSystem\Warehouse Manaement System\obj\Debug\WarehouseManagementSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Goharista\Desktop\New folder (3)\CommerceSystem\Warehouse Manaement System\obj\Debug\WareHouse.Forms.AddDism.resources
+C:\Users\Goharista\Desktop\New folder (3)\CommerceSystem\Warehouse Manaement System\obj\Debug\WareHouse.Forms.AddSupPermDialog.resources
+C:\Users\Goharista\Desktop\New folder (3)\CommerceSystem\Warehouse Manaement System\obj\Debug\WareHouse.Forms.SelectProductInPeriod.resources
+C:\Users\Goharista\Desktop\New folder (3)\CommerceSystem\Warehouse Manaement System\obj\Debug\WareHouse.Forms.SelectStores.resources
+C:\Users\Goharista\Desktop\New folder (3)\CommerceSystem\Warehouse Manaement System\obj\Debug\WareHouse.Forms.SelectTimePeriod.resources
+C:\Users\Goharista\Desktop\New folder (3)\CommerceSystem\Warehouse Manaement System\obj\Debug\WareHouse.Forms.UpdateDismPerm.resources
+C:\Users\Goharista\Desktop\New folder (3)\CommerceSystem\Warehouse Manaement System\obj\Debug\WareHouse.Forms.UpdateOrDeleteDialog.resources
+C:\Users\Goharista\Desktop\New folder (3)\CommerceSystem\Warehouse Manaement System\obj\Debug\WareHouse.Forms.UpdateSupPermInfo.resources
+C:\Users\Goharista\Desktop\New folder (3)\CommerceSystem\Warehouse Manaement System\obj\Debug\WareHouse.Home.resources
+C:\Users\Goharista\Desktop\New folder (3)\CommerceSystem\Warehouse Manaement System\obj\Debug\CommerceSystem.Properties.Resources.resources
+C:\Users\Goharista\Desktop\New folder (3)\CommerceSystem\Warehouse Manaement System\obj\Debug\WarehouseManagementSystem.csproj.GenerateResource.cache
+C:\Users\Goharista\Desktop\New folder (3)\CommerceSystem\Warehouse Manaement System\obj\Debug\WarehouseManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Goharista\Desktop\New folder (3)\CommerceSystem\Warehouse Manaement System\obj\Debug\WarehouseManagementSystem.csproj.CopyComplete
+C:\Users\Goharista\Desktop\New folder (3)\CommerceSystem\Warehouse Manaement System\obj\Debug\CommerceSystem.exe
+C:\Users\Goharista\Desktop\New folder (3)\CommerceSystem\Warehouse Manaement System\obj\Debug\CommerceSystem.pdb
+C:\Users\Goharista\Desktop\New folder (3)\Warehouse Management System\Warehouse Manaement System\bin\Debug\CommerceSystem.exe.config
+C:\Users\Goharista\Desktop\New folder (3)\Warehouse Management System\Warehouse Manaement System\bin\Debug\CommerceSystem.exe
+C:\Users\Goharista\Desktop\New folder (3)\Warehouse Management System\Warehouse Manaement System\bin\Debug\CommerceSystem.pdb
+C:\Users\Goharista\Desktop\New folder (3)\Warehouse Management System\Warehouse Manaement System\bin\Debug\EntityFramework.dll
+C:\Users\Goharista\Desktop\New folder (3)\Warehouse Management System\Warehouse Manaement System\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Goharista\Desktop\New folder (3)\Warehouse Management System\Warehouse Manaement System\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\Goharista\Desktop\New folder (3)\Warehouse Management System\Warehouse Manaement System\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\Goharista\Desktop\New folder (3)\Warehouse Management System\Warehouse Manaement System\bin\Debug\Syncfusion.Pdf.Base.dll
+C:\Users\Goharista\Desktop\New folder (3)\Warehouse Management System\Warehouse Manaement System\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Goharista\Desktop\New folder (3)\Warehouse Management System\Warehouse Manaement System\bin\Debug\EntityFramework.xml
+C:\Users\Goharista\Desktop\New folder (3)\Warehouse Management System\Warehouse Manaement System\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Goharista\Desktop\New folder (3)\Warehouse Management System\Warehouse Manaement System\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\Goharista\Desktop\New folder (3)\Warehouse Management System\Warehouse Manaement System\bin\Debug\Syncfusion.Pdf.Base.xml
+C:\Users\Goharista\Desktop\New folder (3)\Warehouse Management System\Warehouse Manaement System\obj\Debug\WarehouseManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Goharista\Desktop\New folder (3)\Warehouse Management System\Warehouse Manaement System\obj\Debug\WarehouseManagementSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Goharista\Desktop\New folder (3)\Warehouse Management System\Warehouse Manaement System\obj\Debug\WareHouse.Forms.AddDism.resources
+C:\Users\Goharista\Desktop\New folder (3)\Warehouse Management System\Warehouse Manaement System\obj\Debug\WareHouse.Forms.AddSupPermDialog.resources
+C:\Users\Goharista\Desktop\New folder (3)\Warehouse Management System\Warehouse Manaement System\obj\Debug\WareHouse.Forms.SelectProductInPeriod.resources
+C:\Users\Goharista\Desktop\New folder (3)\Warehouse Management System\Warehouse Manaement System\obj\Debug\WareHouse.Forms.SelectStores.resources
+C:\Users\Goharista\Desktop\New folder (3)\Warehouse Management System\Warehouse Manaement System\obj\Debug\WareHouse.Forms.SelectTimePeriod.resources
+C:\Users\Goharista\Desktop\New folder (3)\Warehouse Management System\Warehouse Manaement System\obj\Debug\WareHouse.Forms.UpdateDismPerm.resources
+C:\Users\Goharista\Desktop\New folder (3)\Warehouse Management System\Warehouse Manaement System\obj\Debug\WareHouse.Forms.UpdateOrDeleteDialog.resources
+C:\Users\Goharista\Desktop\New folder (3)\Warehouse Management System\Warehouse Manaement System\obj\Debug\WareHouse.Forms.UpdateSupPermInfo.resources
+C:\Users\Goharista\Desktop\New folder (3)\Warehouse Management System\Warehouse Manaement System\obj\Debug\WareHouse.Home.resources
+C:\Users\Goharista\Desktop\New folder (3)\Warehouse Management System\Warehouse Manaement System\obj\Debug\CommerceSystem.Properties.Resources.resources
+C:\Users\Goharista\Desktop\New folder (3)\Warehouse Management System\Warehouse Manaement System\obj\Debug\WarehouseManagementSystem.csproj.GenerateResource.cache
+C:\Users\Goharista\Desktop\New folder (3)\Warehouse Management System\Warehouse Manaement System\obj\Debug\WarehouseManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Goharista\Desktop\New folder (3)\Warehouse Management System\Warehouse Manaement System\obj\Debug\WarehouseManagementSystem.csproj.CopyComplete
+C:\Users\Goharista\Desktop\New folder (3)\Warehouse Management System\Warehouse Manaement System\obj\Debug\CommerceSystem.exe
+C:\Users\Goharista\Desktop\New folder (3)\Warehouse Management System\Warehouse Manaement System\obj\Debug\CommerceSystem.pdb
